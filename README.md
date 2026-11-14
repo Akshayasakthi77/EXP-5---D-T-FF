@@ -158,8 +158,9 @@ Q(next) = T ⊕ Q   (T Flip-Flop)
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 
 **## Output**
-https://drive.google.com/file/d/19USscprf3IqZmoAagvwW6Y2og--Wtjof/view?usp=drivesdk
-https://drive.google.com/file/d/1yAi_FwEyctJTSwlkAjIZ8My4NS0cEubS/view?usp=drivesdk
+<img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/b4897f17-e83a-44d4-9bc1-ee16051fc7c8" />
+<img width="1920" height="1080" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/8c47c0fe-6f4e-423a-9b7a-6a642d1dccda" />
+
 ## Viva-Voce Questions
 
 ●	What is the difference between a latch and a flip-flop?
